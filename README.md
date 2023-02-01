@@ -1,6 +1,6 @@
 ﻿# Daily Coding Problems
 
-Hi there, this is my GitHub repository sharing all of the one off problems I have worked through based on **[Daily Coding Problem](https://www.dailycodingproblem.com/)**. Daily Coding Problem is a great group that sends out one coding problem a day based on interview questions from big tech companies. It's a great way to to practice for coding interviews and keep up your coding skills. Check out some of the my solutions to these problems in the files above. In each file I explain how the solution works based on the functionality of my code to make it easier for readers to understand how the solution came to be. 
+Hi there, this is my GitHub repository sharing all of the one off problems I have worked through based on **[Daily Coding Problem](https://www.dailycodingproblem.com/)**. Daily Coding Problem is a great group that sends out one coding problem a day based on interview questions from big tech companies. It's a great way to practice for coding interviews and keep up your coding skills. Check out some of the my solutions to these problems in the files above. In each file I explain how the solution works based on the functionality of my code to make it easier for readers to understand how the solution came to be. 
 
 ### Here's an example problem from [Daily Coding Problem](https://www.dailycodingproblem.com/):
 
