@@ -42,7 +42,9 @@ Here's an example of a **hard** problem from [Daily Coding Problem](https://www.
 > For example, given the array `['G', 'B', 'R', 'R', 'B', 'R', 'G']`, it should become `['R', 'R', 'R', 'G', 'G', 'B', 'B']`.
 
 To see my solution look at [Hard Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Hard/Problem_30.ipynb).
+
 To see all the hard coding problems look at my [Hard Coding Problems Folder](https://github.com/adamwbrew/Daily_Coding_Problems/tree/main/Hard).
+
 
 ## Medium Problems
 
@@ -57,7 +59,9 @@ Here's an example of a **medium** problem from [Daily Coding Problem](https://ww
 > Given the input `[3, 0, 1, 3, 0, 5]`, we can hold `3` units in the first index, `2` in the second, and `3` in the fourth index (we cannot hold `5` since it would run off to the left), so we can trap `8` units of water.
 
 To see my solution look at [Medium Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Medium/Problem_26.ipynb).
+
 To see all the medium coding problems look at my [Medium Coding Problems Folder](https://github.com/adamwbrew/Daily_Coding_Problems/tree/main/Medium).
+
 
 ## Easy Problems
 
@@ -71,5 +75,6 @@ Here's an example of a **easy** problem from [Daily Coding Problem](https://www.
 > You should be as efficient with time and space as possible.
 
 To see my solution look at [Easy Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Easy/Problem_14.ipynb).
+
 To see all the easy coding problems look at my [Easy Coding Problems Folder](https://github.com/adamwbrew/Daily_Coding_Problems/tree/main/Easy).
 
