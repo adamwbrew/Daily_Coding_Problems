@@ -28,23 +28,23 @@ Here's an example problem from [Daily Coding Problem](https://www.dailycodingpro
 > 
 > What if, instead of being able to climb `1` or `2` steps at a time, you could climb any number from a set of positive integers `X`? For example, if `X = {1, 3, 5}`, you could climb `1`, `3`, or `5` steps at a time. Generalize your function to take in `X`.
 
-To see my solution look at [ReadMe Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/ReadMe_Problem_Solution.ipynb)
+To see my solution look at [ReadMe Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/ReadMe_Problem_Solution.ipynb).
 
 
-## Hard Problem
+## Hard Problems
 
 Here's an example of a **hard** problem from [Daily Coding Problem](https://www.dailycodingproblem.com/):
 
 > Given an array of strictly the characters `'R'`, `'G'`, and `'B'`, segregate the values of the array so that all the Rs come first, the Gs come second, and the Bs come last. You can only swap elements of the array.
-
+> 
 > Do this in linear time and in-place.
-
+> 
 > For example, given the array `['G', 'B', 'R', 'R', 'B', 'R', 'G']`, it should become `['R', 'R', 'R', 'G', 'G', 'B', 'B']`.
 
-To see my solution look at [Hard Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Hard/Problem_30.ipynb)
+To see my solution look at [Hard Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Hard/Problem_30.ipynb).
+To see all the hard coding problems look at my [Hard Coding Problems Folder](https://github.com/adamwbrew/Daily_Coding_Problems/tree/main/Hard).
 
-
-## Medium Problem
+## Medium Problems
 
 Here's an example of a **medium** problem from [Daily Coding Problem](https://www.dailycodingproblem.com/):
 
@@ -56,10 +56,10 @@ Here's an example of a **medium** problem from [Daily Coding Problem](https://ww
 > 
 > Given the input `[3, 0, 1, 3, 0, 5]`, we can hold `3` units in the first index, `2` in the second, and `3` in the fourth index (we cannot hold `5` since it would run off to the left), so we can trap `8` units of water.
 
-To see my solution look at [Medium Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Medium/Problem_26.ipynb)
+To see my solution look at [Medium Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Medium/Problem_26.ipynb).
+To see all the medium coding problems look at my [Medium Coding Problems Folder](https://github.com/adamwbrew/Daily_Coding_Problems/tree/main/Medium).
 
-
-## Easy Problem
+## Easy Problems
 
 Here's an example of a **easy** problem from [Daily Coding Problem](https://www.dailycodingproblem.com/):
 
@@ -70,5 +70,6 @@ Here's an example of a **easy** problem from [Daily Coding Problem](https://www.
 > 
 > You should be as efficient with time and space as possible.
 
-To see my solution look at [Easy Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Easy/Problem_14.ipynb)
+To see my solution look at [Easy Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Easy/Problem_14.ipynb).
+To see all the easy coding problems look at my [Easy Coding Problems Folder](https://github.com/adamwbrew/Daily_Coding_Problems/tree/main/Easy).
 
