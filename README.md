@@ -67,14 +67,11 @@ To see all the medium coding problems look at my [Medium Coding Problems Folder]
 
 Here's an example of a **easy** problem from [Daily Coding Problem](https://www.dailycodingproblem.com/):
 
-> You run an e-commerce website and want to record the last `N` order ids in a log. Implement a data structure to accomplish this, with the following API:
+> Given an array of time intervals (start, end) for classroom lectures (possibly overlapping), find the minimum number of rooms required.
 > 
-> - `record(order_id)`: adds the order_id to the log
-> - `get_last(i)`: gets the ith last element from the log. `i` is guaranteed to be smaller than or equal to `N`.
-> 
-> You should be as efficient with time and space as possible.
+> For example, given `[(30, 75), (0, 50), (60, 150)]`, you should return `2`.
 
-To see my solution look at [Easy Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Easy/Problem_14.ipynb).
+To see my solution look at [Easy Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Easy/Problem_18.ipynb).
 
 To see all the easy coding problems look at my [Easy Coding Problems Folder](https://github.com/adamwbrew/Daily_Coding_Problems/tree/main/Easy).
 
