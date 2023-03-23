@@ -59,8 +59,8 @@ Here's an example of a **medium** problem from [Daily Coding Problem](https://ww
 > - A cell neighbours another cell if it is horizontally, vertically, or diagonally adjacent.
 > 
 > Implement Conway's Game of Life. It should be able to be initialized with a starting list of live cell coordinates and the number of steps it should run for. Once initialized, it should print out the board state at each step. Since it's an infinite board, print out only the relevant coordinates, i.e. from the top-leftmost live cell to bottom-rightmost live cell.
-
-You can represent a live cell with an asterisk (`*`) and a dead cell with a dot (`.`).
+> 
+> You can represent a live cell with an asterisk (`*`) and a dead cell with a dot (`.`).
 
 To see my solution look at [Medium Problem Solution](https://github.com/adamwbrew/Daily_Coding_Problems/blob/main/Medium/Problem_34.ipynb).
 
